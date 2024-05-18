@@ -1,5 +1,4 @@
 # Goodreads-ML-Project-CIS4130
-# Goodreads Book Reviews Analysis
 
 # Project Description
 This project aims to analyze Goodreads book reviews to uncover trends in user ratings. The analysis includes exploratory data analysis,data cleaning, preprocessing, feature engineering, and predictive modeling.
@@ -9,7 +8,7 @@ This project aims to analyze Goodreads book reviews to uncover trends in user ra
 - Visualize key insights and trends from the data.
 
 # Dataset
-The dataset used for this project is two JSON file named `goodreads_reviews_dedup.json`, 'goodreads_books.json' which contains user reviews and ratings for various books on Goodreads extracted via Kaggle
+The dataset used for this project is two JSON file named `goodreads_reviews_dedup.json`, `goodreads_books.json` which contains user reviews and ratings for various books on Goodreads extracted via Kaggle
 
 ## Data Processing Pipeline
 The data processing pipeline includes the following steps:
