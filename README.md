@@ -27,3 +27,4 @@ The data processing pipeline includes the following steps:
 - Significant correlation between review length and rating.
 - Predictive model achieved an RMSE of X and R-squared of Y.
 - Visualizations included bar charts and scatter plots to highlight key trends.
+- Best Model tested achieved an AUC of 0.837
